@@ -1,0 +1,18 @@
+{
+  "name": "snowshell",
+  "version": "1.2.0",
+  "description": "A winter-themed terminal prompt customizer with snowflake decorations",
+  "main": "index.js",
+  "bin": {
+    "snowshell": "./bin/snowshell.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["terminal", "prompt", "shell", "theme", "winter", "snow", "cli", "customization"],
+  "author": "dressup-my-shell",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
