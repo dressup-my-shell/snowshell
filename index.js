@@ -37,3 +37,4 @@ function getPS1() {
 }
 
 module.exports = { getPrompt, getBanner, getPS1, generateBorder };
+
