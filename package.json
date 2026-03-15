@@ -9,10 +9,22 @@
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": ["terminal", "prompt", "shell", "theme", "winter", "snow", "cli", "customization"],
+  "keywords": [
+    "terminal",
+    "prompt",
+    "shell",
+    "theme",
+    "winter",
+    "snow",
+    "cli",
+    "customization"
+  ],
   "author": "dressup-my-shell",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^4.1.2"
+    "chalk": "^4.1.2",
+    "figlet": "^1.7.0",
+    "inquirer": "^8.2.6",
+    "ora": "^5.4.1"
   }
 }
